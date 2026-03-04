@@ -32,7 +32,7 @@ Features controlled inputs, step navigation, clickable step indicator, and form 
 
 ```bash
 # 1. Clone the repository
-git clone <your-repository-link>
+git clone <https://github.com/tapasisamal/react-redux-form-wizard>
 
 # 2. Navigate into the project folder
 cd react-redux-form-wizard
