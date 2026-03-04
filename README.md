@@ -23,8 +23,7 @@ Features controlled inputs, step navigation, clickable step indicator, and form 
 
 - React.js  
 - Redux Toolkit  
-- React Redux  
-- CSS / Tailwind (optional)  
+- React Redux    
 
 ---
 
